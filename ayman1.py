@@ -1,4 +1,4 @@
 x=input("Enter Your Name : ")
-z=input('Enter Your Password: ')
+e=input('Enter Your Password: ')
 
-print(x,z)
+print(x,e)
